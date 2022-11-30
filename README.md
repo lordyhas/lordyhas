@@ -1,4 +1,4 @@
-# Hi, I'm Lordy Hassan Kajila - aka [lordyhas][linktree] 👋 
+## Hi, I'm Lordy Hassan Kajila - aka [lordyhas][linktree] 👋 
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=hassankajila.com&style=for-the-badge&url=https%3A%2F%2Fhassankajila.com)][website]
@@ -8,7 +8,7 @@
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com) -->
 
 
-## I'm a Developer and Teacher!!
+### I'm Developer
 
 - I do mobile and web development with Flutter/Dart.
 - I do android mobile development with Java/Kotlin.

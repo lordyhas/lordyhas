@@ -1,6 +1,10 @@
 ## Hi, I'm Lordy Hassan Kajila - aka [lordyhas][linktree] 👋 
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCDCHcqyeQgJ-jVSd6VJkbCw?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
+
+<!-- 
+https://img.shields.io/youtube/channel/subscribers/UCVluLhe_uBPZ7hr6blvtxtg?logo=youtube&logoColor=red&style=for-the-badge
+-->
+[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCLxcC0C4arznYtwgArjlnoA?logo=youtube&logoColor=red&style=for-the-badge)][youtube]
 [![Website](https://img.shields.io/website?label=hassankajila.com&style=for-the-badge&url=https%3A%2F%2Fhassankajila.com)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/lordyhas?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
 <!--

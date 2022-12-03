@@ -1,4 +1,4 @@
-## Hi, I'm Lordy Hassan Kajila - aka [lordyhas][linktree] 👋 
+## Hi, I'm Lordy Hassan Kajila - alias [lordyhas][linktree] 👋 
 
 
 <!-- 

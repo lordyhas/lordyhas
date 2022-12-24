@@ -111,6 +111,7 @@ https://img.shields.io/youtube/channel/subscribers/UCVluLhe_uBPZ7hr6blvtxtg?logo
 [youtube]: https://youtube.com/@code_set
 [playlist]: https://youtube.com/@code_set
 [instagram]: https://instagram.com/lordyhas
-[linkedin]: https://www.linkedin.com/in/hassankajila
+[linkedin]: https://www.linkedin.com/in/
+<!-- https://www.linkedin.com/in/hassankajila -->
 
 

@@ -103,7 +103,7 @@ https://img.shields.io/youtube/channel/subscribers/UCVluLhe_uBPZ7hr6blvtxtg?logo
 
 </details-->
 
-[linktree]: https://linktr.ee/hassankajila
+[linktree]: https://linktr.ee/lordyhas
 [blog]: https://hassankajila.com/blog
 [website]: https://hassankajila.com
 [course]: http://hassankajila.com

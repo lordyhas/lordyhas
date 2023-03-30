@@ -16,7 +16,7 @@ https://img.shields.io/youtube/channel/subscribers/UCVluLhe_uBPZ7hr6blvtxtg?logo
 
 - I do mobile and web development with Flutter/Dart.
 - I do android mobile development with Java/Kotlin.
-- I do back-end web development and database conception (PHP, SQL, ...).
+- I do back-end web development and database design (PHP, SQL, ...).
 - I do and learn onboard programming.
 - I learn desktop app development, software engineering.
 - I learn data analysis, machine learning, and deep learning.

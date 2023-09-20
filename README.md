@@ -23,8 +23,8 @@ https://img.shields.io/youtube/channel/subscribers/UCVluLhe_uBPZ7hr6blvtxtg?logo
 
 ### Other
 - 🌱 I am currently learning everything that is interesting 🙂
-- 👯 I’m looking to collaborate with other developers and content creators
-- 🥅 2023 Goals: Computer Vision
+<!-- - 👯 I’m looking to collaborate with other developers and content creators -->
+- 🥅 2023 Goals: Computer Vision.
 - ⚡ Fun fact: I love listening to music. I also like to walk.
 
 ### Connect with me:

@@ -17,13 +17,13 @@ https://img.shields.io/youtube/channel/subscribers/UCVluLhe_uBPZ7hr6blvtxtg?logo
 - I do mobile and web development with Flutter/Dart.
 - I do android mobile development with Java/Kotlin.
 - I do back-end web development and database design (PHP, SQL, ...).
-- I do and learn onboard programming.
+- I learn onboard programming.
 - I learn desktop app development, software engineering.
-- I learn data analysis, machine learning, and deep learning.
+- I learn data analysis, NLP & Computer vision.
 
 ### Other
 - 🌱 I am currently learning everything that is interesting 🙂 <!-- - 👯 I’m looking to collaborate with other developers and content creators -->
-- 🥅 2024 Goals: Computer Vision.
+- 🥅 2025 Goals: NLP & Computer Vision.
 - ⚡ Fun fact: I love listening to music. I also like to walk.
 
 ### Connect with me:
@@ -108,8 +108,8 @@ https://img.shields.io/youtube/channel/subscribers/UCVluLhe_uBPZ7hr6blvtxtg?logo
 [twitter]: https://twitter.com/lordyhas
 [youtube]: https://youtube.com/@code_set
 [playlist]: https://youtube.com/@code_set
-[instagram]: https://instagram.com/lordyhas
-[linkedin]: https://www.linkedin.com/in/
+[instagram]: https://instagram.com/hassankajila
+[linkedin]: https://www.linkedin.com/in/hassankajila
 <!-- https://www.linkedin.com/in/hassankajila -->
 
 

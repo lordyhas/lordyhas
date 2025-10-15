@@ -1,4 +1,4 @@
-## Hi, I'm Hassan Kajila - alias [lordyhas][linktree] 👋 
+## Hi, I'm Hassan Kajila - username [lordyhas][linktree] 👋 
 
 
 <!-- 

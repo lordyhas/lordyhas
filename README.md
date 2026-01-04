@@ -15,7 +15,7 @@ https://img.shields.io/youtube/channel/subscribers/UCVluLhe_uBPZ7hr6blvtxtg?logo
 ### I'm Developer
 
 - I do mobile and web development with Flutter/Dart.
-- I do android mobile development with Java/Kotlin.
+- I do android development with Java/Kotlin.
 - I do back-end web development and database design (PHP, SQL, ...).
 - I learn onboard programming.
 - I learn desktop app development, software engineering.

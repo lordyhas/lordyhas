@@ -16,7 +16,7 @@ https://img.shields.io/youtube/channel/subscribers/UCVluLhe_uBPZ7hr6blvtxtg?logo
 
 - I’m currently working on: Agentic workflows and automated AI pipelines
 - I’m currently learning: LLM Security & AI Alignment
- 
+ <br>
 - I do AI development with Pytorch and TensorFlow.
 - I do mobile and web development with Flutter/Dart.
 - I do android development with Java/Kotlin.

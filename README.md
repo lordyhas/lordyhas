@@ -14,16 +14,21 @@ https://img.shields.io/youtube/channel/subscribers/UCVluLhe_uBPZ7hr6blvtxtg?logo
 
 ### I'm Developer
 
+- I’m currently working on: Agentic workflows and automated AI pipelines
+- I’m currently learning: LLM Security & AI Alignment
+ 
+- I do AI development with Pytorch and TensorFlow.
 - I do mobile and web development with Flutter/Dart.
 - I do android development with Java/Kotlin.
-- I do back-end web development and database design (PHP, SQL, ...).
-- I learn onboard programming.
-- I learn desktop app development, software engineering.
-- I learn data analysis, NLP & Computer vision.
+- I do web development with NextJS.
+- I do back-end web development and database design (PHP, NodeJS, SQL, NoSQL...).
+- I learn Computer vision.
+- I learn software security.
+
 
 ### Other
 - 🌱 I am currently learning everything that is interesting 🙂 <!-- - 👯 I’m looking to collaborate with other developers and content creators -->
-- 🥅 2025 Goals: Computer Vision (DTI traccking).
+- 🥅 2026 Goals: Agentic AI, AI Alignment and Computer Vision (DTI traccking).
 - ⚡ Fun fact: I love listening to music. I also like to walk.
 
 ### Connect with me:

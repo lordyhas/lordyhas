@@ -21,9 +21,7 @@ https://img.shields.io/youtube/channel/subscribers/UCVluLhe_uBPZ7hr6blvtxtg?logo
 <br>
  
 - I do AI development with Pytorch and TensorFlow.
-- I do mobile and web development with Flutter/Dart.
-- I do android development with Java/Kotlin.
-- I do web development with NextJS.
+- I do mobile and web development with Flutter/Dart, Java/Kotlin, NextJS, Laravel.
 - I do back-end web development and database design (PHP, NodeJS, SQL, NoSQL...).
 - I learn Computer vision.
 - I learn software security.

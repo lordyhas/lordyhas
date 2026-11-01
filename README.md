@@ -60,14 +60,13 @@ https://img.shields.io/youtube/channel/subscribers/UCVluLhe_uBPZ7hr6blvtxtg?logo
 [<img align="left" alt="Terminal" width="26px" src="./img/terminal-dark.svg" />][playlist]
  -->
 <br />
-<br />
 
 
 ---
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lordyhas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lordyhas&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordyhas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lordyhas&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### 💻 Tech Stack:
@@ -84,7 +83,7 @@ https://img.shields.io/youtube/channel/subscribers/UCVluLhe_uBPZ7hr6blvtxtg?logo
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 <!-- Data -->
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) 
-![Supabase](https://img.shields.io/badge/supabase-a08021?style=for-the-badge&logo=supabase&logoColor=ffcd34) 
+![Supabase](https://img.shields.io/badge/supabase-a08021?style=for-the-badge&logo=supabase&logoColor=green) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 

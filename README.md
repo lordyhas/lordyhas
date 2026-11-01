@@ -1,4 +1,4 @@
-## Hi, I'm Hassan Kajila
+## Hey, I'm Hassan
 
 
 <!-- 
@@ -12,18 +12,14 @@ https://img.shields.io/youtube/channel/subscribers/UCVluLhe_uBPZ7hr6blvtxtg?logo
 [![Become A VS Code SuperHero](https://img.shields.io/badge/-Become%20A%20VS%20Code%20SuperHero%20%E2%86%92-gray.svg?colorB=ff652f&style=for-the-badge)](https://vsCodeHero.com) -->
 
 
-### I'm a Software Developer
+I like building things I actually use: Android apps, small tools, and machine learning experiments that start with "what if I tried…".
 
-- I’m currently working on: Agentic workflows and automated AI pipelines
-- I’m currently learning: LLM Security & AI Alignment
+Lately I've been spending most of my time on:
 
-
-<br>
- 
-- I do AI development with Pytorch and TensorFlow.
-- I do mobile and web development with Flutter/Dart, Java/Kotlin, NextJS, Laravel.
-- I do back-end web development and database design (PHP, NodeJS, SQL, NoSQL...).
-- I learn software security.
+- 🤖 **Agentic AI**: wiring LLMs into automated pipelines and workflows
+- 🛡️ **LLM security & AI alignment**: trying to understand how these systems fail, not just how they work
+- 👁️ **Computer vision**: segmentation, detection, tracking
+- 📱 **Native Android**: Kotlin and Jetpack Compose, with Flutter when I need cross-platform
 
 
 ### Other
